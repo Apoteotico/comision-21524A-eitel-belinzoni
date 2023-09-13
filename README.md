@@ -42,5 +42,9 @@ Siga estos pasos para ejecutar el proyecto en su máquina local:
 6. **Ejecute node app.js y acceda de manera predeterminada a la aplicación en su navegador web en el PORT=6060 .env :**
 [http://localhost:6060](http://localhost:6060).
 
+**Extra:**
+Si quiere ver como funciona el blog sin descargarlo puede hacer click en el icono de youtube debajo, muestra como crear los post y el proyecto.
+
 <h1 align="center"> Apoteotico </h1>
-<em> # Eitel Hugo Belinzoni</em>
+<a href="https://youtu.be/OvAOTlUWlvY" target="_blank"><img src="/icon/icons8-youtube.svg" alt="youtube"/></a> <em> # Eitel Hugo Belinzoni</em>  
+
