@@ -1,5 +1,5 @@
 {
-  "name": "21524a-practica-express",
+  "name": "comision-21524A-eitel-belinzoni",
   "version": "1.0.0",
   "description": "![Express Nodejs](https://miro.medium.com/v2/resize:fit:1400/1*f7ztMaMM0etsFHpEfkdiwA.png)",
   "main": "app.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aalesann/21524A-practica-express.git"
+    "url": "https://github.com/Apoteotico/comision-21524A-eitel-belinzoni.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aalesann/21524A-practica-express/issues"
+    "url": "https://github.com/Apoteotico/comision-21524A-eitel-belinzoni.git"
   },
-  "homepage": "https://github.com/aalesann/21524A-practica-express#readme",
+  "homepage": "https://github.com/Apoteotico/comision-21524A-eitel-belinzoni.git",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
