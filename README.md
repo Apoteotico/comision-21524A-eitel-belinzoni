@@ -39,8 +39,8 @@ Siga estos pasos para ejecutar el proyecto en su máquina local:
    url_imagen = varchar 255
    fecha_publicacion = date   
 ```
-6. **Ejecute node app.js y acceda de manera predeterminada a la aplicación en su navegador web en el puerto 4000 o en el que haya configurado en el archivo .env :**
-[http://localhost:4000](http://localhost:4000).
+6. **Ejecute node app.js y acceda de manera predeterminada a la aplicación en su navegador web en el PORT=6060 .env :**
+[http://localhost:6060](http://localhost:6060).
 
 <h1 align="center"> Apoteotico </h1>
 <em> # Eitel Hugo Belinzoni</em>
