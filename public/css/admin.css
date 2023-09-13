@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+}
+
+h1.text-center {
+    color: #000; /* Texto negro */
+    transition: color 0.3s, text-shadow 0.3s; /* Transición suave */
+}
+
+/* Estilo cuando el mouse pasa sobre el h1 */
+h1.text-center:hover {
+    color: rgba(6, 124, 6, 0.5); /* Color de texto luminoso en hover */
+    text-shadow: 0 0 15px rgba(0, 255, 0, 0.8); /* Sombra de texto luminoso en hover */
+}
+
+/* h1.text-center {
+    color: rgba(0, 255, 0, 0.5);
+    text-shadow: 0 0 15px rgba(0, 255, 0, 80); /* Sombra de texto luminoso 
+} */
+
+.form-control:focus,
+.btn-primary:focus,
+.form-floating textarea:focus::placeholder {
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5), 0 0 20px rgba(0, 255, 0, 0.5), 0 0 30px rgba(0, 255, 0, 0.5); /
+}
+.p_footer{
+    color: goldenrod;
+  }
